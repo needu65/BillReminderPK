@@ -1,0 +1,7 @@
+<ImageView
+    android:id="@+id/app_logo"
+    android:layout_width="120dp"
+    android:layout_height="120dp"
+    android:layout_gravity="center"
+    android:src="@drawable/app_logo"
+    android:contentDescription="@string/app_logo"/>

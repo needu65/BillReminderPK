@@ -1,0 +1,53 @@
+<resources>
+    <string name="electricity">Electricity</string>
+    <string name="gas">Gas</string>
+    <string name="water">Water</string>
+    <string name="landline">Landline/Phone</string>
+    <string name="mobile">Postpaid Mobile</string>
+    <string name="amount_format">PKR %,.2f</string>
+    <string name="app_name">Bill Reminder PK</string>
+    <string name="welcome">Welcome to Bill Reminder PK</string>
+    <string name="login">Login</string>
+    <string name="signup">Sign Up</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="error_email">Please enter valid email</string>
+    <string name="error_password">Password must be at least 6 characters</string>
+    <string name="add_bill">Add Bill</string>
+    <string name="my_bills">My Bills</string>
+    <string name="settings">Settings</string>
+    <string name="logout">Logout</string>
+    <string name="bill_type">Bill Type</string>
+    <string name="company">Company</string>
+    <string name="account_number">Account Number</string>
+    <string name="amount">Amount</string>
+    <string name="due_date">Due Date</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="bill_saved_successfully">Bill saved successfully</string>
+    <string name="error_account_number">Please enter account number</string>
+    <string name="error_amount">Please enter amount</string>
+    <string name="error_due_date">Please select due date</string>
+    <string name="privacy_policy">Privacy Policy: We do not collect or share any of your data. All information is stored locally on your device.</string>
+    <string name="human_verification">Are you human? Please check the box to continue.</string>
+    
+    <string-array name="bill_types">
+        <item>Electricity</item>
+        <item>Gas</item>
+        <item>Water</item>
+        <item>Landline/Phone</item>
+        <item>Postpaid Mobile</item>
+    </string-array>
+    
+    <string-array name="electricity_companies">
+        <item>WAPDA</item>
+        <item>K-Electric</item>
+    </string-array>
+    
+    <string-array name="gas_companies">
+        <item>SNGPL</item>
+        <item>SSGC</item>
+    </string-array>
+    
+    <!-- Add other company arrays for each bill type -->
+</resources>

@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">بل یاد دہانی پاکستان</string>
+    <string name="welcome">بل یاد دہانی پاکستان میں خوش آمدید</string>
+    <string name="login">لاگ ان</string>
+    <string name="signup">سائن اپ</string>
+    <string name="email">ای میل</string>
+    <string name="password">پاس ورڈ</string>
+    <string name="error_email">براہ کرم درست ای میل درج کریں</string>
+    <string name="error_password">پاس ورڈ کم از کم 6 حروف کا ہونا چاہیے</string>
+    <string name="add_bill">بل شامل کریں</string>
+    <string name="my_bills">میرے بلز</string>
+    <string name="settings">ترتیبات</string>
+    <string name="logout">لاگ آؤٹ</string>
+    <string name="bill_type">بل کی قسم</string>
+    <string name="company">کمپنی</string>
+    <string name="account_number">اکاؤنٹ نمبر</string>
+    <string name="amount">رقم</string>
+    <string name="due_date">آخری تاریخ</string>
+    <string name="save">محفوظ کریں</string>
+    <string name="cancel">منسوخ کریں</string>
+    <string name="bill_saved_successfully">بل کامیابی سے محفوظ ہو گیا</string>
+    <string name="error_account_number">براہ کرم اکاؤنٹ نمبر درج کریں</string>
+    <string name="error_amount">براہ کرم رقم درج کریں</string>
+    <string name="error_due_date">براہ کرم آخری تاریخ منتخب کریں</string>
+    <string name="privacy_policy">رازداری کی پالیسی: ہم آپ کا کوئی ڈیٹا جمع یا شیئر نہیں کرتے۔ تمام معلومات آپ کے آلے پر مقامی طور پر محفوظ ہوتی ہیں۔</string>
+    <string name="human_verification">کیا آپ انسان ہیں؟ براہ کرم جاری رکھنے کے لیے باکس کو چیک کریں۔</string>
+    
+    <string-array name="bill_types">
+        <item>بجلی</item>
+        <item>گیس</item>
+        <item>پانی</item>
+        <item>لینڈ لائن/فون</item>
+        <item>پوسٹ پیڈ موبائل</item>
+    </string-array>
+    
+    <string-array name="electricity_companies">
+        <item>وپڈا</item>
+        <item>کے الیکٹرک</item>
+    </string-array>
+    
+    <string-array name="gas_companies">
+        <item>ایس این جی پی ایل</item>
+        <item>ایس ایس جی سی</item>
+    </string-array>
+    
+    <!-- Add other company arrays for each bill type in Urdu -->
+</resources>
